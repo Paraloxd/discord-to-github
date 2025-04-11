@@ -2,5 +2,7 @@
   "screen": {
     "193.168.1.1": "license1"
   },
-  "anticheat": {}
+  "anticheat": {
+    "193.168.1.1": "license2"
+  }
 }
