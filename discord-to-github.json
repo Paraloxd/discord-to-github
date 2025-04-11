@@ -1,5 +1,6 @@
 {
   "screen": {
     "193.168.1.1": "license1"
-  }
+  },
+  "anti-spoofer": {}
 }
