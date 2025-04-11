@@ -1,4 +1,9 @@
-test
-
-asd
-selam kanka!!
+{
+  "screen": {
+    "194.113.226.250": "Anadolu Evlatlari Gaming",
+  },
+  "p-anticheat": {
+    "194.113.226.250": "Anadolu Evlatlari Gaming",
+    "127.0.0.1": "Anadolu Evlatlari Gaming",
+  }
+}
