@@ -1,6 +1,7 @@
 {
   "screen": {
-    "193.168.1.2": "license5"
+    "193.168.1.2": "license5",
+    "193.168.1.1": "testasds"
   },
   "anticheat": {
     "193.168.1.1": "license2"
